@@ -68,7 +68,7 @@ int main() {
    string ans = removeChars(0, s.size() - 1, s);
    cout << ans << endl;
 
-cout << cnt << endl;    
+   cout << cnt << endl;    
 
    for(int i = 0; i < cnt; i++) {
         cout << pr[i].first << " - " << pr[i].second << endl;
